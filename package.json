@@ -1,8 +1,0 @@
-{
-  "name": "sakana-ai-chatbot",
-  "version": "1.0.0",
-  "description": "Sakana AI Chatbot GUI",
-  "scripts": {
-    "build": "echo 'No build step required for static site'"
-  }
-}
